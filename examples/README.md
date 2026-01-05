@@ -6,14 +6,14 @@ Esta pasta contém exemplos e referências de implementação para cada etapa do
 
 > 🎬 Sugestão: grave vídeos curtos (2–5 min) por etapa mostrando o “antes/depois” e a decisão técnica. Isso ajuda muito na avaliação e na apresentação final.
 
-| Etapa                | Descrição                                                            | Link           |
-| -------------------- | -------------------------------------------------------------------- | -------------- |
-| Documentação         | Caso de uso, personas (3 modos) e arquitetura com LangGraph          | [colocar link] |
-| Base de Conhecimento | Como o agente lê CSV/JSON, reduz contexto e filtra por agente        | [colocar link] |
-| Prompts              | System prompts (Guardião/Finanças/Autopiloto), edge cases e exemplos | [colocar link] |
-| Aplicação            | Streamlit chat + Ollama + roteamento + checker                       | [colocar link] |
-| Métricas             | Roteamento correto, segurança, consistência e latência               | [colocar link] |
-| Pitch                | Roteiro e demo prática do agente                                     | [colocar link] |
+| Etapa                | Descrição                                                            | 
+| -------------------- | -------------------------------------------------------------------- | 
+| Documentação         | Caso de uso, personas (3 modos) e arquitetura com LangGraph          | 
+| Base de Conhecimento | Como o agente lê CSV/JSON, reduz contexto e filtra por agente        | 
+| Prompts              | System prompts (Guardião/Finanças/Autopiloto), edge cases e exemplos | 
+| Aplicação            | Streamlit chat + Ollama + roteamento + checker                       | 
+| Métricas             | Roteamento correto, segurança, consistência e latência               | 
+| Pitch                | Roteiro e demo prática do agente                                     | 
 
 ---
 
