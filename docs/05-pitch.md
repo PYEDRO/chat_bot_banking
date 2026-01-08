@@ -52,6 +52,6 @@ O impacto é direto: ajuda a **reduzir prejuízos por golpes**, melhora a **alfa
 
 ## Link do Vídeo
 
-[Link do vídeo]
+[\[Link do vídeo\]](https://youtu.be/EpWM3qwi87o)
 
 
